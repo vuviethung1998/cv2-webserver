@@ -1,0 +1,6 @@
+vietocr==0.3.2
+torch
+torchvision
+PyYAML
+flask
+gunicorn

@@ -1,0 +1,1 @@
+PRETRAINED_MODEL = 'data/pretrained_model/transformerocr.pth'
