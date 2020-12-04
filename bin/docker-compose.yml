@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    build: ../
+    image: bin_web:latest
     ports:
       - "5001:5000"
     restart: always
